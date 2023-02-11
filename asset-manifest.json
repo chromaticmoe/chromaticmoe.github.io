@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91a3b725.css",
+    "main.js": "/static/js/main.96b3db7b.js",
+    "static/media/work1.png": "/static/media/work1.5ec57bd057687d4fcfca.png",
+    "static/media/about-pic.png": "/static/media/about-pic.e007e04c79e4fec0f5f3.png",
+    "static/media/work2.png": "/static/media/work2.7377a6d93e7b2af40e13.png",
+    "static/media/expressjs.png": "/static/media/expressjs.bb1c8fbab492151a8329.png",
+    "static/media/work5.png": "/static/media/work5.b6ceab49793180d42e03.png",
+    "static/media/work4.png": "/static/media/work4.ef9f0c7e17a97d2fc4c5.png",
+    "static/media/react.png": "/static/media/react.428839d4924b447d4d50.png",
+    "static/media/work6.png": "/static/media/work6.08f90a15343710883250.png",
+    "static/media/java.png": "/static/media/java.ddf8676bd569fe01ab44.png",
+    "static/media/c++.png": "/static/media/c++.24a8f93854ab092f17a7.png",
+    "static/media/work3.png": "/static/media/work3.92961a2c936d0ea325a4.png",
+    "static/media/mongodb.png": "/static/media/mongodb.4b8166e22108f1ca78cb.png",
+    "static/media/nodejs.png": "/static/media/nodejs.7c2c17abcdae04b47634.png",
+    "static/media/css.png": "/static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/index.html",
+    "main.91a3b725.css.map": "/static/css/main.91a3b725.css.map",
+    "main.96b3db7b.js.map": "/static/js/main.96b3db7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91a3b725.css",
+    "static/js/main.96b3db7b.js"
+  ]
+}
