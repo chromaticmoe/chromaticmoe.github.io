@@ -1,0 +1,58 @@
+header {
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Montserrat";
+    font-weight: 700;
+}
+
+.header-container {
+    text-align: center;
+    position: relative;
+    line-height: normal;
+}
+
+.my-name {
+    color: var(--color-primary)
+}
+
+.greeting {
+    font-size: 4rem;
+}
+
+.greeting-desc {
+    margin-top: 0.3rem;
+    font-size: 2rem;
+    font-weight: 300;
+    
+}
+
+.view-work {
+    margin-top: 1.8rem;
+}
+
+/* --------- MEDIA QUERIES ---------- */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    
+    .view-work {
+        margin-top: 1.8rem;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    
+    .view-work {
+        margin-top: 1.5rem;
+    }
+}
+
+@media (max-width: 575px) {
+
+    .view-work {
+        margin-top: 1.8rem;
+    }
+}
